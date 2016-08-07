@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cc5cf79-e0e8-4f91-940e-88c4afa0db7f" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\study\git\ASMTest\target\MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="D:\study\git\ASMTest\target\classes\zgh\xxx\asm\JavaToASM.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\study\git\ASMTest\target\classes\zgh\xxx\asm\ReaderClass.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\study\git\ASMTest\target\classes\zgh\xxx\asm\TestAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\study\git\ASMTest\target\classes\zgh\xxx\asm\TestRemoveMethodAdapter$RemoveMethodAdatper.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\study\git\ASMTest\target\classes\zgh\xxx\asm\TestRemoveMethodAdapter.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="D:\study\git\ASMTest\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="D:\study\git\ASMTest\.idea\compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\study\git\ASMTest\.idea\copyright\profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\study\git\ASMTest\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\study\git\ASMTest\.idea\libraries\Maven__asm_asm_all_3_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\study\git\ASMTest\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\study\git\ASMTest\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\study\git\ASMTest\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\study\git\ASMTest\.idea\uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\study\git\ASMTest\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\study\git\ASMTest\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\study\git\ASMTest\ASMTest.iml" afterPath="" />
     </list>
     <ignored path="ASMTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -242,20 +247,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ASMTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ASMTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ASMTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -625,12 +616,19 @@
       <updated>1470061044125</updated>
       <workItem from="1470061046764" duration="1227000" />
       <workItem from="1470229039382" duration="2565000" />
-      <workItem from="1470536637214" duration="12521000" />
+      <workItem from="1470536637214" duration="12648000" />
     </task>
+    <task id="LOCAL-00001" summary="[del]删除无用配置文件">
+      <created>1470571717093</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1470571717093</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16313000" />
+    <option name="totallyTimeSpent" value="16440000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -648,9 +646,9 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="ASM" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -681,6 +679,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="[del]删除无用配置文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="[del]删除无用配置文件" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

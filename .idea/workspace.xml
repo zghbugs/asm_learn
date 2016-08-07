@@ -608,7 +608,7 @@
       <updated>1470061044125</updated>
       <workItem from="1470061046764" duration="1227000" />
       <workItem from="1470229039382" duration="2565000" />
-      <workItem from="1470536637214" duration="12908000" />
+      <workItem from="1470536637214" duration="12932000" />
     </task>
     <task id="LOCAL-00001" summary="[del]删除无用配置文件">
       <created>1470571717093</created>
@@ -634,11 +634,17 @@
       <option name="project" value="LOCAL" />
       <updated>1470572053686</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="[del]删除无用配置文件">
+      <created>1470572090131</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1470572090131</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16700000" />
+    <option name="totallyTimeSpent" value="16724000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
